@@ -1,4 +1,4 @@
-#Unknown type for PHP
+#UnknownType (PHPExtra\Type\UnknownType)
 
 [![Latest Stable Version](https://poser.pugx.org/phpextra/unknown/v/stable.svg)](https://packagist.org/packages/phpextra/unknown)
 [![Total Downloads](https://poser.pugx.org/phpextra/unknown/downloads.svg)](https://packagist.org/packages/phpextra/unknown)
@@ -9,8 +9,6 @@
 [![GitTip](http://img.shields.io/gittip/jkobus.svg)](https://www.gittip.com/jkobus)
 
 ##Usage
-
-###UnknownType (PHPExtra\Type\UnknownType)
 
 It should not happen but sometimes does - you have a method with many different response types, but want to handle it like a pro:
 
