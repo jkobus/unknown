@@ -1,4 +1,4 @@
-#Common classes and interfaces for PHP
+#Unknown type for PHP
 
 [![Latest Stable Version](https://poser.pugx.org/phpextra/unknown/v/stable.svg)](https://packagist.org/packages/phpextra/unknown)
 [![Total Downloads](https://poser.pugx.org/phpextra/unknown/downloads.svg)](https://packagist.org/packages/phpextra/unknown)
