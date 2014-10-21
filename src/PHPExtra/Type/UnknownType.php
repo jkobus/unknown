@@ -2,6 +2,7 @@
 
 namespace PHPExtra\Type;
 
+use PHPExtra\Sorter\SortableInterface;
 use PHPExtra\Type\Collection\CollectionInterface;
 use PHPExtra\Type\Enum\EnumInterface;
 
