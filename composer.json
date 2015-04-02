@@ -27,7 +27,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0",
-        "phpextra/collection": "dev-master as 1.0.0",
+        "phpextra/collection": "dev-master",
         "phpextra/enum": "~1.0",
         "phpextra/sorter": "~1.0"
     },
